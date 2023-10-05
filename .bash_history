@@ -13,3 +13,38 @@ sudo apt-get update
 sudo apt-get install jenkins
 jenkins --version
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+ls
+yum git install
+sudo apt install git
+git version
+git cinfig --global user.name "abhishek"
+git config --global user.name "abhishek"
+git config --global user.email "abhisatbhai008@gmail.com"
+git init
+git remote add origin https://github.com/abhisatbhai/myjaveprogect.git
+git inin
+vi java.java
+git remote add origin https://github.com/abhisatbhai/myjaveprogect.git
+git add .
+git commit -m "first java linux"
+git push origin master
+git .
+git add .
+git commit -m "javanew"
+git push origin master
+git pull origin master
+git push origin master
+git remote add origin https://github.com/abhisatbhai/myjaveprogect.git
+git pull "https://github.com/abhisatbhai/myjaveprogect.git"
+git push origin master
+git push origin master --force
+ls
+sudo rm java.java
+mkdir myjava
+ls
+cd myjava
+ls
+vi myja.java
+git push origin master --force
+
+git push origin master --force

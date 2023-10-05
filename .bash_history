@@ -1,0 +1,15 @@
+clear
+sudo apt update
+udo apt install fontconfig openjdk-17-jre
+sudo apt update
+sudo apt install fontconfig openjdk-17-jre
+sudo apt update
+sudo apt install fontconfig openjdk-17-jre
+java -version
+openjdk version "17.0.8" 2023-07-18
+curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
+echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc]   https://pkg.jenkins.io/debian binary/ | sudo tee   /etc/apt/sources.list.d/jenkins.list > /dev/null
+sudo apt-get update
+sudo apt-get install jenkins
+jenkins --version
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword

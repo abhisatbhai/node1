@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1696489263,,"wq!"
+|2,0,1696572390,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,88 @@
 # Registers:
 
 # File marks:
-'0  5  2  ~/myjava/myja.java
-|4,48,5,2,1696489263,"~/myjava/myja.java"
-'1  5  2  ~/java.java
-|4,49,5,2,1696487785,"~/java.java"
+'0  5  2  ~/myjava.java
+|4,48,5,2,1696572390,"~/myjava.java"
+'1  1  8  ~/myjava/cake
+|4,49,1,8,1696513688,"~/myjava/cake"
+'2  5  2  ~/myjava/myja.java
+|4,50,5,2,1696489263,"~/myjava/myja.java"
+'3  5  2  ~/java.java
+|4,51,5,2,1696487785,"~/java.java"
 
 # Jumplist (newest first):
+-'  5  2  ~/myjava.java
+|4,39,5,2,1696572390,"~/myjava.java"
+-'  1  0  ~/myjava.java
+|4,39,1,0,1696572377,"~/myjava.java"
+-'  1  8  ~/myjava/cake
+|4,39,1,8,1696513688,"~/myjava/cake"
+-'  1  8  ~/myjava/cake
+|4,39,1,8,1696513688,"~/myjava/cake"
 -'  5  2  ~/myjava/myja.java
 |4,39,5,2,1696489263,"~/myjava/myja.java"
+-'  5  2  ~/myjava/myja.java
+|4,39,5,2,1696489263,"~/myjava/myja.java"
+-'  5  2  ~/myjava/myja.java
+|4,39,5,2,1696489263,"~/myjava/myja.java"
+-'  5  2  ~/myjava/myja.java
+|4,39,5,2,1696489263,"~/myjava/myja.java"
+-'  1  0  ~/myjava/myja.java
+|4,39,1,0,1696489255,"~/myjava/myja.java"
+-'  1  0  ~/myjava/myja.java
+|4,39,1,0,1696489255,"~/myjava/myja.java"
+-'  1  0  ~/myjava/myja.java
+|4,39,1,0,1696489255,"~/myjava/myja.java"
 -'  1  0  ~/myjava/myja.java
 |4,39,1,0,1696489255,"~/myjava/myja.java"
 -'  5  2  ~/java.java
 |4,39,5,2,1696487785,"~/java.java"
 -'  5  2  ~/java.java
 |4,39,5,2,1696487785,"~/java.java"
+-'  5  2  ~/java.java
+|4,39,5,2,1696487785,"~/java.java"
+-'  5  2  ~/java.java
+|4,39,5,2,1696487785,"~/java.java"
+-'  5  2  ~/java.java
+|4,39,5,2,1696487785,"~/java.java"
+-'  5  2  ~/java.java
+|4,39,5,2,1696487785,"~/java.java"
+-'  5  2  ~/java.java
+|4,39,5,2,1696487785,"~/java.java"
+-'  5  2  ~/java.java
+|4,39,5,2,1696487785,"~/java.java"
+-'  1  0  ~/java.java
+|4,39,1,0,1696487776,"~/java.java"
+-'  1  0  ~/java.java
+|4,39,1,0,1696487776,"~/java.java"
+-'  1  0  ~/java.java
+|4,39,1,0,1696487776,"~/java.java"
+-'  1  0  ~/java.java
+|4,39,1,0,1696487776,"~/java.java"
+-'  1  0  ~/java.java
+|4,39,1,0,1696487776,"~/java.java"
+-'  1  0  ~/java.java
+|4,39,1,0,1696487776,"~/java.java"
 -'  1  0  ~/java.java
 |4,39,1,0,1696487776,"~/java.java"
 -'  1  0  ~/java.java
 |4,39,1,0,1696487776,"~/java.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/myjava.java
+	*	1696572389	0
+	"	5	2
+	^	5	3
+	.	5	2
+	+	5	2
+
+> ~/myjava/cake
+	*	1696513687	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
 
 > ~/myjava/myja.java
 	*	1696489262	0
